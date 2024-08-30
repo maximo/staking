@@ -1,6 +1,6 @@
-# veSPA contract design
+# Staking contract design
 
-Staking contract for SPA, tokens are called veSPA
+Staking contract for SPA. Staked tokens are called veSPA
 
 ## User checkpoint functions
 
